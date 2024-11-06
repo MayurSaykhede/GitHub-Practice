@@ -8,5 +8,10 @@ public class Github_Practice {
 	public void push_Command() {
 		System.out.println("Push Command");
 	}
+	
+	@Test
+	public void conflicts_Practice() {
+		System.out.println("Conflicts Practice");
+	}
 
 }
